@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @United1l
 - 👀 I’m interested in front-end and fullstack web development
-- 🌱 I’m currently learning react and I'm building my portfolio website
-- 💞️ I’m looking to collaborate on front-end projects with the react.js stack or vanilla js
+- 🌱 I’m currently learning react and the framework remix
+- 💞️ I’m looking to collaborate on front-end projects with the react library or vanilla js
 - 📫 How to reach me michaelasare719@gmail.com or my github
 
 <!---
