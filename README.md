@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m @United1l
 - 👀 I'm a front-end developer 
 - 🌱 I’m currently contributing to open source software
-- 💞️ I’m looking to collaborate on front-end projects(React| Typescript| Nextjs| Refine)
+- 💞️ I’m looking to collaborate on front-end projects (React| Typescript| Nextjs| Refine)
 - 📫 How to reach me michaelasare719@gmail.com or my github
 
 <!---
